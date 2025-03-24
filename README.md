@@ -9,7 +9,6 @@ This project is part of the **42cursus** curriculum and focuses on implementing 
 - [Usage](#usage)
 - [Features](#features)
 - [Built With](#built-with)
-- [License](#license)
 
 ## Description
 
